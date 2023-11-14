@@ -1,0 +1,2 @@
+# quote-of-day
+quote
